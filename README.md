@@ -5,8 +5,8 @@ jQuery AutoVoter for JQBX
 
 djsIHate will be anyone that gets a down vote (in our room down votes are a sign of respect).  
 
-If you don't want to auto downvote anyone set jqbxAutoDown to false.
-If you don't want to auto upvote anyone set jqbxAutoUp to false.
+If you don't want to auto downvote anyone set jqbxAutoDown to false.  
+If you don't want to auto upvote anyone set jqbxAutoUp to false.  
 If you set both to false you're dumb and this code won't do jack shit.  ;)
 
 Note the default timer runs the auto voter every 100000 milliseconds (100 seconds or 1.67 minutes) - so really short songs may be missed if the timing is just off.
@@ -21,6 +21,6 @@ In chrome I show the bookmarks bar, right click the bar, choose Add Page and put
 4. Click the bookmarklet / button / whatever
 5. To disable just click f5 to reload the browser room (note, you will fall off the dj queue)
 
-TODO:
+# TODO:
 
 Add an easy way to disable without rejoining the room.
