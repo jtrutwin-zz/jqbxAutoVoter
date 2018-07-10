@@ -1,0 +1,2 @@
+# jqbxAutoVoter
+AutoVoter for JQBX
