@@ -1,7 +1,7 @@
 # jqbxAutoVoter
 jQuery AutoVoter for JQBX
 
-1. Edit the configuration variables on the top of the file - they should be self explanator.
+1. Edit the configuration variables on the top of the file - they should be self explanatory.
 
 djsIHate will be anyone that gets a down vote (in our room down votes are a sign of respect).  
 
