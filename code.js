@@ -21,7 +21,7 @@ var jqbxAutoVoter = {
       return "My play - no action";
     }
     
-    /* if auto down is enabled and we the DJ is someone in the djsIHate list, thumbs down */
+    /* if auto down is enabled and the DJ is someone in the djsIHate list, thumbs down */
     if (jqbxAutoDown) {
       if ($.inArray(djName, djsIHate) >= 0) {
         $('div.meter').find('button.thumbs-down').click();
