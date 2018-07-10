@@ -6,7 +6,7 @@ var myDJName = 'icehole';       /* set to your own dj name */
 var jqbxAutoUp = true;          /* set to false to disable auto thumbs-up */
 var jqbxAutoDown = true;        /* set to false to disable auto thumbs-down (lame) */
 var jqbxAutoVoteTimer = 100000; /* autovote every 100000 milliseconds (1.67 minutes) */
-var jqbxAutoVoteDebug = false   /* set to true to enable to console output - for developers */
+var jqbxAutoVoteDebug = false;  /* set to true to enable to console output - for developers */
 
 /* if you want to auto lame anyone, put them in this list: */
 var djsIHate = ['Blue Bart', 'dirtie', 'pcmotitas', 'Furious Maximous'];
